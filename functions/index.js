@@ -1,4 +1,4 @@
-/const doh = 'https://security.cloudflare-dns.com/dns-query'
+//const doh = 'https://security.cloudflare-dns.com/dns-query'
 //const dohjson = 'https://security.cloudflare-dns.com/dns-query'
 const doh = 'https://cloudflare-dns.com/dns-query'
 const dohjson = 'https://cloudflare-dns.com/dns-query'
